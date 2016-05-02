@@ -3,7 +3,7 @@ title: Dungeons & Dragons at the University of Bath
 email: dan@karyx.co.uk
 description: > # this means to ignore newlines until "baseurl:"
   We play D&D every couple of weeks. I draw what happens each time. These are the results.
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "_site" # the subpath of your site, e.g. /blog/
 url: "http://dandineen.github.io/dnduob/" # the base hostname & protocol for your site
 twitter_username: dandineen
 github_username:  dandineen
